@@ -1,0 +1,8 @@
+opencv-python==4.5.5.62
+numpy==1.21.2
+pandas==1.3.3
+torch==1.10.0
+transformers==4.12.3
+Pillow==8.3.2
+ultralytics==0.1.0  # This is a hypothetical version, please check the correct package and version for YOLOv8n
+uuid==1.30
