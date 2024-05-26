@@ -27,13 +27,14 @@ The Real-Time Visitor Analysis System is a powerful tool that combines face dete
 
 ## Installation
 
-1. Clone the repository or download the source code.
-2. Install the required dependencies using pip: `pip install -r requirements.txt`.
-3. Ensure that the necessary pre-trained models (face detection, YOLOv8n, ViT age classifier, and gender classification) are downloaded and placed in the appropriate directories.
+1. Clone the repository: `git clone https://github.com/your-username/real-time-visitor-analysis.git`
+2. Navigate to the project directory: `cd real-time-visitor-analysis`
+3. Install the required dependencies using pip: `pip install -r requirements.txt`
+4. Ensure that the necessary pre-trained models (face detection, YOLOv8n, ViT age classifier, and gender classification) are downloaded and placed in the appropriate directories.
 
 ## Usage
 
-1. Run the main script: `python main.py`.
+1. Run the main script: `python main.py`
 2. The system will start capturing video from the default camera and perform real-time visitor analysis.
 3. Detected faces, persons, and relevant information will be displayed on the video feed.
 4. Visitor data, including timestamps, face IDs, status, type, duration, and total visitors, will be logged to a CSV file (`face_logs.csv`).
