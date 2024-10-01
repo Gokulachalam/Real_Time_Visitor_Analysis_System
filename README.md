@@ -27,7 +27,7 @@ The Real-Time Visitor Analysis System is a powerful tool that combines face dete
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/real-time-visitor-analysis.git`
+1. Clone the repository: `git clone https://github.com/Gokulachalam/real-time-visitor-analysis.git`
 2. Navigate to the project directory: `cd real-time-visitor-analysis`
 3. Install the required dependencies using pip: `pip install -r requirements.txt`
 4. Ensure that the necessary pre-trained models (face detection, YOLOv8n, ViT age classifier, and gender classification) are downloaded and placed in the appropriate directories.
